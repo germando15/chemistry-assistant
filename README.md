@@ -37,3 +37,10 @@ M = masse molaire (g/mol)
 ## Export PDF
 
 Permet de générer automatiquement un rapport chimique.
+
+## Ajout main.py
+
+### Utilisation
+```bash
+python3 main.py
+```
